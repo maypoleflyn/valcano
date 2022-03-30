@@ -3,23 +3,23 @@ The pipeline to characterize LTR-RTs family, classify and predict the bursts
 
 Introduction and Quick start:
 
-https://github.com/maypoleflyn/volcanoation
+https://github.com/maypoleflyn/valcano/wiki/Installation
 
 Installation:
 
-https://github.com/maypoleflyn/BSATOS/wiki/Installation
+https://github.com/maypoleflyn/valcano/wiki/Installation
 
 Commands:
 
-https://github.com/maypoleflyn/BSATOS/wiki/Commands
+https://github.com/maypoleflyn/valcano/wiki/Installation
 
 Examples:
 
-https://github.com/maypoleflyn/BSATOS/wiki/Examples
+https://github.com/maypoleflyn/valcano/wiki/Installation
 
 Documentation：
 
-https://drive.google.com/file/d/1gPjisojwkKkCgLNS0fu3uqafwUp_o7Vm/view?usp=sharing
+https://github.com/maypoleflyn/valcano/wiki/Installation
 
 
 Website:
