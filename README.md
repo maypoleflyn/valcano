@@ -1,5 +1,5 @@
 # valcano
-The pipeline to characterize LTR-RTs family, classify and predict the bursts
+The one-stop pipeline to characterize LTR-RTs family, classify and predict the bursts
 
 Introduction and Quick start:
 
